@@ -1,4 +1,4 @@
-import java.util.Scanner; //Scanner importado
+import java.util.Scanner;
 
 //Transferir, receber e consultar saldo, simulação de um Banco Virtual
 
